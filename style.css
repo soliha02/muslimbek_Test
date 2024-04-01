@@ -1,0 +1,163 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    border: 6px solid rgb(23, 210, 23);
+    background-color: bisque;
+    width: 200px;
+    height: 200px;
+    transition: 0.5s;
+}
+
+.box:hover {
+
+    box-shadow: 3px 11px 5px 10px rgba(41, 212, 7, 0.81);
+    -webkit-box-shadow: 3px 11px 5px 10px rgba(21, 207, 27, 0.81);
+    -moz-box-shadow: 3px 11px 5px 10px rgba(15, 214, 32, 0.81);
+}
+
+.box-2 {
+
+    background-color: bisque;
+    width: 200px;
+    height: 200px;
+    transition: 0.5s;
+}
+
+.box-2:hover {
+    box-shadow: 3px 11px 5px 10px rgba(0, 0, 0, 0.81);
+    -webkit-box-shadow: 3px 11px 5px 10px rgba(0, 0, 0, 0.81);
+    -moz-box-shadow: 3px 11px 5px 10px rgba(0, 0, 0, 0.81);
+}
+
+.dada {
+    display: flex;
+    margin: 80px auto;
+    gap: 150px;
+    margin-left: 450px;
+}
+
+.box-3 {
+    background-color: bisque;
+    width: 200px;
+    height: 200px;
+    transition: 0.4s;
+}
+
+.box-3:hover {
+    box-shadow: 3px 11px 5px 10px rgba(0, 0, 0, 0.81);
+    -webkit-box-shadow: 3px 11px 5px 10px rgba(0, 0, 0, 0.81);
+    -moz-box-shadow: 3px 11px 5px 10px rgba(0, 0, 0, 0.81);
+}
+
+.ona {
+    display: flex;
+    margin: 80px auto;
+    gap: 150px;
+    margin-left: 450px;
+}
+
+.box-4 {
+    background-color: bisque;
+    width: 200px;
+    height: 200px;
+    transition: 0.4s;
+}
+
+.box-4:hover {
+    box-shadow: 3px 11px 5px 10px rgba(0, 0, 0, 0.81);
+    -webkit-box-shadow: 3px 11px 5px 10px rgba(0, 0, 0, 0.81);
+    -moz-box-shadow: 3px 11px 5px 10px rgba(0, 0, 0, 0.81);
+}
+
+.box-5 {
+    background-color: bisque;
+    width: 200px;
+    height: 200px;
+    transition: 0.4s;
+}
+
+.box-5:hover {
+    box-shadow: 3px 11px 5px 10px rgba(0, 0, 0, 0.81);
+    -webkit-box-shadow: 3px 11px 5px 10px rgba(0, 0, 0, 0.81);
+    -moz-box-shadow: 3px 11px 5px 10px rgba(0, 0, 0, 0.81);
+}
+
+.box-6 {
+    background-color: bisque;
+    width: 200px;
+    height: 200px;
+    transition: 0.4s;
+    border: 6px solid red;
+}
+
+.box-6:hover {
+    box-shadow: 3px 11px 5px 10px rgba(228, 12, 12, 0.81);
+    -webkit-box-shadow: 3px 11px 5px 10px rgba(223, 17, 17, 0.81);
+    -moz-box-shadow: 3px 11px 5px 10px rgba(236, 13, 13, 0.81);
+}
+
+.box-7 {
+    background-color: bisque;
+    width: 200px;
+    height: 200px;
+    transition: 0.4s;
+    border: 6px solid blue;
+}
+
+.box-7:hover {
+    box-shadow: 3px 11px 5px 10px rgba(65, 48, 223, 0.81);
+    -webkit-box-shadow: 3px 11px 5px 10px rgba(78, 26, 209, 0.81);
+    -moz-box-shadow: 3px 11px 5px 10px rgba(43, 21, 203, 0.81);
+}
+
+.box-8 {
+    background-color: bisque;
+    width: 200px;
+    height: 200px;
+    transition: 0.4s;
+}
+
+.box-8:hover {
+    box-shadow: 3px 11px 5px 10px rgba(0, 0, 0, 0.81);
+    -webkit-box-shadow: 3px 11px 5px 10px rgba(0, 0, 0, 0.81);
+    -moz-box-shadow: 3px 11px 5px 10px rgba(0, 0, 0, 0.81);
+}
+
+.box-9 {
+    background-color: bisque;
+    width: 200px;
+    height: 200px;
+    transition: 0.4s;
+}
+
+.box-9:hover {
+    box-shadow: 3px 11px 5px 10px rgba(0, 0, 0, 0.81);
+    -webkit-box-shadow: 3px 11px 5px 10px rgba(0, 0, 0, 0.81);
+    -moz-box-shadow: 3px 11px 5px 10px rgba(0, 0, 0, 0.81);
+}
+
+.doda {
+    display: flex;
+    margin: 80px auto;
+    gap: 150px;
+    margin-left: 450px;
+}
+
+img {
+    width: 550px;
+    height: 509px;
+    top: -246px;
+    left: -702px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 80px;
+
+}
+
+.amaqi {
+    display: flex;
+}
